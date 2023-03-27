@@ -1,0 +1,18 @@
+
+form{
+    background-color: #f1efef91;
+    margin: 30%;
+    padding: 30px;
+    border: 2px solid black;
+}
+input{
+    margin-bottom: 10px;
+}
+select{
+    margin-bottom: 10px;
+}
+
+h1{
+    font-size: 20px;
+    color: blue;
+}
